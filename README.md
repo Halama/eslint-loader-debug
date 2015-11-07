@@ -6,7 +6,7 @@ This is picked from real application and only minimal relevant parts to the bug 
 ## Instalation
 
 * clone the repo
-* run npm install
+* run `npm install`
 
 ## Error simulation
 
